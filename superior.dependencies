@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "kernel_xiaomi_oxygen",
+    "target_path": "kernel/xiaomi/oxygen"
+  },
+  {
+    "repository": "vendor_xiaomi_oxygen",
+    "target_path": "vendor/xiaomi/oxygen"
+  }
+]
