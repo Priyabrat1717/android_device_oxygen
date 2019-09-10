@@ -17,7 +17,7 @@
 $(call inherit-product, device/xiaomi/oxygen/full_oxygen.mk)
 
 # Inherit some common LineageOS stuff.
-$(call inherit-product, vendor/superior/config/common_full_phone.mk)
+$(call inherit-product, vendor/superior/config/common.mk)
 
 PRODUCT_NAME := superior_oxygen
 BOARD_VENDOR := Xiaomi
